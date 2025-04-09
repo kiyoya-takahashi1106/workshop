@@ -25,7 +25,7 @@ const App3 = () => {
             <ul>
                 <li>buttonを作成して、そのbuttonを押すとinputタグに入力された文字をコンソールに表示するようにしてください。</li>
             </ul>
-            <Finsh location={"app3"}/>
+            <Finsh location={"app4"}/>
         </div>
     )
 }
