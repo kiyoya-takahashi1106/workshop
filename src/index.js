@@ -6,6 +6,7 @@ import App2 from './App2.js';
 import App3 from './App3.js';
 import App4 from './App4.js';
 import App5 from './App5.js';
+import App6 from './App6.js';
 import reportWebVitals from './reportWebVitals.js';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
@@ -21,6 +22,7 @@ root.render(
         <Route path='/app3' element={<App3 />} />
         <Route path='/app4' element={<App4 />} />
         <Route path="/app5" element={<App5 />} />
+        <Route path="/app6" element={<App6 />} />
       </Routes>
     </BrowserRouter>
   // </React.StrictMode>
