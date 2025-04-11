@@ -19,7 +19,6 @@ const App4 = () => {
 			>-1する</button>
 			{countNum}
 			<button
-				onClick={addCount}
 				style={{ cursor: 'pointer', marginLeft: '10px' }}
 			>+1する</button>
 
